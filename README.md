@@ -17,4 +17,4 @@ weekly for 7 different drink categories. A second dataset reports which shops ar
 I used the [Prophet model](https://facebook.github.io/prophet/) released by Fb to predict the total sales. I extracted the yearly trend, for the predicted performance in 2018, and then I classified them with an ANOVA, to check for differences between three homogenehous groups, being no competitors, few competitors and more then 6 competitors. No significant difference was found.
 
 # Data
-can be found in the attached files
+can be found in attached file (zip folder)
