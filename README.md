@@ -6,6 +6,9 @@ Predict the sales of 1881 liquor shops in a undefined country
 The case study is about predicting the future sales of a number of different liquor shops in un undefined area. Sales of the previous 5 years (from 2012 to 2017) are given
 weekly for 7 different drink categories. A second dataset reports which shops are present in a radius of 5 km for each single shop to take into account the competition between different shops. 
 
+Here below you can see the normalized sales for the seven items from 2012 to 2017
+![](https://github.com/luigigreselin/HOUSE_PRICE_REGRESSION/blob/main/ING_image.PNG)
+
 # Data preprocessing / EDA
 1. elimation of the nan
 2. elimantion of all those shops that did not have data for the 2017 (they closed/failed)
